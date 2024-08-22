@@ -1,52 +1,52 @@
 STUSPS,Rating,Access,Details
-AL,Always Required,0.804979779,Testing Testing 123
-AK,Sometimes Required,0.953572302,Testing Testing 123
-AZ,Never Required,0.630855969,Testing Testing 123
-AR,Always Required,0.909943679,Testing Testing 123
-CA,Sometimes Required,0.247621683,Testing Testing 123
-CO,Never Required,0.812517707,Testing Testing 123
-CT,Always Required,0.112931567,Testing Testing 123
-DC,Sometimes Required,0.112931567,Testing Testing 123
-DE,Never Required,0.642462719,Testing Testing 123
-FL,Always Required,0.221739321,Testing Testing 123
-GA,Sometimes Required,0.710852342,Testing Testing 123
-HI,Never Required,0.714635653,Testing Testing 123
-ID,Always Required,0.293070692,Testing Testing 123
-IL,Sometimes Required,0.611658421,Testing Testing 123
-IN,Never Required,0.564118946,Testing Testing 123
-IA,Always Required,0.526576514,Testing Testing 123
-KS,Sometimes Required,0.906552073,Testing Testing 123
-KY,Never Required,0.061592956,Testing Testing 123
-LA,Always Required,0.215671501,Testing Testing 123
-ME,Sometimes Required,0.696501635,Testing Testing 123
-MD,Never Required,0.05984851,Testing Testing 123
-MA,Always Required,0.880200905,Testing Testing 123
-MI,Sometimes Required,0.610045333,Testing Testing 123
-MN,Never Required,0.231083308,Testing Testing 123
-MS,Always Required,0.78210376,Testing Testing 123
-MO,Sometimes Required,0.983794372,Testing Testing 123
-MT,Never Required,0.535122228,Testing Testing 123
-NE,Always Required,0.196146236,Testing Testing 123
-NV,Sometimes Required,0.60573626,Testing Testing 123
-NH,Never Required,0.788974029,Testing Testing 123
-NJ,Always Required,0.456804743,Testing Testing 123
-NM,Sometimes Required,0.201403633,Testing Testing 123
-NY,Never Required,0.696602944,Testing Testing 123
-NC,Always Required,0.731666034,Testing Testing 123
-ND,Sometimes Required,0.775271627,Testing Testing 123
-OH,Never Required,0.256423961,Testing Testing 123
-OK,Always Required,0.106668911,Testing Testing 123
-OR,Sometimes Required,0.286509268,Testing Testing 123
-PA,Never Required,0.770718684,Testing Testing 123
-RI,Always Required,0.801546531,Testing Testing 123
-SC,Sometimes Required,0.643787431,Testing Testing 123
-SD,Never Required,0.53048007,Testing Testing 123
-TN,Always Required,0.563582346,Testing Testing 123
-TX,Sometimes Required,0.145102555,Testing Testing 123
-UT,Never Required,0.509945426,Testing Testing 123
-VT,Always Required,0.66743502,Testing Testing 123
-VA,Sometimes Required,0.558735588,Testing Testing 123
-WA,Never Required,0.103460768,Testing Testing 123
-WV,Always Required,0.414152723,Testing Testing 123
-WI,Sometimes Required,0.307397358,Testing Testing 123
-WY,Never Required,0.051481274,Testing Testing 123
+AL,Always Required,0.413,Year(s) of legislation: 1971
+AK,Always Required,0.333,Year(s) of legislation: 1981
+AZ,Always Required,0.328,"Year(s) of legislation: 1992, 2010 "
+AR,Never Required,0.417,Year(s) of legislation: 1973
+CA,Sometimes Required,0.376,Year(s) of legislation: 2023
+CO,Sometimes Required,0.471,"Year(s) of legislation: 2019, 2022"
+CT,Sometimes Required,0.47,"Year(s) of legislation: 1979, 1992"
+DC,Sometimes Required,0.688,Year(s) of legislation: 2014
+DE,Sometimes Required,0.432,Year(s) of legislation: 2001
+FL,Sometimes Required,0.503,"Year(s) of legislation: 1971, 1991"
+GA,Always Required,0.363,Year(s) of legislation: 1952
+HI,Sometimes Required,0.301,Year(s) of legislation: 2016
+ID,Always Required,0.37,Year(s) of legislation: 2024
+IL,Sometimes Required,0.607,"Year(s) of legislation: Prior to 1991, 2018"
+IN,Always Required,0.336,Year(s) of legislation: 1993
+IA,Always Required,0.488,Year(s) of legislation: Prior to 1991
+KS,Never Required,0.333,Year(s) of legislation: 1996
+KY,Never Required,0.459,"Year(s) of legislation: 1970, 1986"
+LA,Never Required,0.611,Year(s) of legislation: 1992
+ME,Sometimes Required,0.654,"Year(s) of legislation: 1983, 1995"
+MD,Sometimes Required,0.54,Year(s) of legislation: 1957
+MA,Never Required,0.539,Year(s) of legislation: 1986
+MI,Sometimes Required,0.443,Year(s) of legislation: 1974
+MN,Never Required,0.365,"Year(s) of legislation: 1982, 2023"
+MS,Always Required,0.33,Year(s) of legislation: 1975
+MO,Always Required,0.467,Year(s) of legislation: 1980
+MT,Never Required,0.534,Year(s) of legislation: 1975
+NE,Always Required,0.349,Year(s) of legislation: Prior to 1991
+NV,Always Required,0.263,Year(s) of legislation: 1975
+NH,Always Required,0.47,Year(s) of legislation: 1986
+NJ,Sometimes Required,0.436,"Year(s) of legislation: 1968, 1992"
+NM,Sometimes Required,0.304,Year(s) of legislation: 2007
+NY,Sometimes Required,0.428,"Year(s) of legislation: 1972, 1983"
+NC,Sometimes Required,0.528,"Year(s) of legislation: 1971, 1973"
+ND,No Specific Law Found,0.387,Year(s) of legislation: N/A
+OH,Sometimes Required,0.48,"Year(s) of legislation: 1961, 1989"
+OK,Always Required,0.434,"Year(s) of legislation: 1992, 2014"
+OR,Sometimes Required,0.553,"Year(s) of legislation: 1953, 1985"
+PA,Never Required,0.463,Year(s) of legislation: 2004
+RI,Always Required,0.368,"Year(s) of legislation: 1966, 1994"
+SC,Never Required,0.323,Year(s) of legislation: 1991
+SD,Always Required,0.179,Year(s) of legislation: 1991
+TN,Never Required,0.376,Year(s) of legislation: 2000
+TX,Sometimes Required,0.324,Year(s) of legislation: 1991
+UT,No Specific Law Found,0.521,Year(s) of legislation: N/A
+VT,Never Required,0.47,"Year(s) of legislation: 1967, 2017"
+VA,Sometimes Required,0.455,"Year(s) of legislation: 1950, 1990"
+WA,Sometimes Required,0.46,Year(s) of legislation: 1985
+WV,Always Required,0.4,Year(s) of legislation: 1965
+WI,Sometimes Required,0.53,"Year(s) of legislation: 1977, 1987"
+WY,Always Required,0.48,Year(s) of legislation: Prior to 1991

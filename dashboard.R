@@ -138,7 +138,7 @@ server <- function(input, output, session) {
     } else {
       
       paste0(
-        "Rating: ",
+        "Parental consent: ",
         merged_data$Rating[merged_data$NAME == state]
       )
 
