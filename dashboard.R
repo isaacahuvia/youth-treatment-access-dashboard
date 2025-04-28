@@ -7,7 +7,7 @@ library(dplyr)
 library(tigris)
 library(scales)
 
-
+options(tigris_use_cache = TRUE)
 ## Load data
 # US state shapefile
 state_shapefile <- tigris::states(cb = TRUE) %>% # Load US state shapefile from tigris
