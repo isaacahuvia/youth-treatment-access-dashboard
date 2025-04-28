@@ -1,0 +1,52 @@
+STUSPS,Rating,Access,Details
+AL,Always Required,0.413,"Year(s) of legislation: 1971, 2015"
+AK,Always Required,0.333,Year(s) of legislation: 1981
+AZ,Always Required,0.328,"Year(s) of legislation: 1992, 2010 "
+AR,Never Required,0.417,Year(s) of legislation: 1973
+CA,Sometimes Required,0.376,*Minors can independently consent if a provider determines parental involvement would be detrimental to the minor. Year(s) of legislation: 2023
+CO,Sometimes Required,0.471,"*Inpatient Treatment:  Minors can independently consent; however, their parent/guardian may be notified regardless. Outpatient Treatment: Minors can independently consent if a provider determines parental involvement would be detrimental to the minor; Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 2019, 2022"
+CT,Sometimes Required,0.47,"*Inpatient Treatment:  Minors can independently consent; however, their parent/guardian may be notified regardless. Outpatient Treatment: Minors can independently consent if a provider determines parental involvement would be detrimental to the minor; Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1979, 1992"
+DC,Sometimes Required,0.688,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minor can consent independently initially, but there is a time limit until parent  permission is required.Year(s) of legislation: 2014"
+DE,Sometimes Required,0.432,*Inpatient Treatment: Parent consent required. Outpatient Treatment: Independent minor consent allowed. Year(s) of legislation: 2001
+FL,Sometimes Required,0.503,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minor can consent independently initially, but there is a time limit until parent  permission is required. Year(s) of legislation: 1971, 1991"
+GA,Always Required,0.363,Year(s) of legislation: 1952
+HI,Sometimes Required,0.301,*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minors can independently consent if a provider determines parental involvement would be detrimental to the minor. Year(s) of legislation: 2016
+ID,Always Required,0.37,Year(s) of legislation: 2024
+IL,Sometimes Required,0.607,"*Inpatient Treatment: Minors can independently consent; however, their parent/guardian may be notified regardless. Outpatient Treatment: Minors can independently consent if a provider determines parental involvement would be detrimental to the minor; Minor can consent independently initially, but there is a time limit until parent permission is required. Year(s) of legislation: Prior to 1991, 2018"
+IN,Always Required,0.336,Year(s) of legislation: 1993
+IA,Always Required,0.488,Year(s) of legislation: Prior to 1991
+KS,Sometimes Required,0.333,"*Inpatient Treatment:  Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1996"
+KY,Sometimes Required,0.459,"*Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1970, 1986"
+LA,Never Required,0.611,Year(s) of legislation: 1992
+ME,Sometimes Required,0.654,"*Inpatient Treatment: Parent consent required. Outpatient Treatment:  Independent minor consent allowed. Year(s) of legislation: 1983, 1995"
+MD,Sometimes Required,0.54,"*Minors can independently consent if a provider determines parental involvement would be detrimental to the minor; Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1957"
+MA,Never Required,0.539,Year(s) of legislation: 1986
+MI,Sometimes Required,0.443,"*Inpatient Treatment: Parent consent required (Parent can override minor consent). Outpatient Treatment: Minor can consent independently initially, but there is a time limit until parent permission is required. Year(s) of legislation: 1974"
+MN,Never Required,0.365,"Year(s) of legislation: 1982, 2023"
+MS,Always Required,0.33,*Inpatient Treatment: Parent consent required. Year(s) of legislation: 1975
+MO,Always Required,0.467,Year(s) of legislation: 1980
+MT,Never Required,0.534,Year(s) of legislation: 1975
+NE,Always Required,0.349,Year(s) of legislation: Prior to 1991
+NV,Always Required,0.263,Year(s) of legislation: 1975
+NH,Always Required,0.47,*Outpatient Treatment: Parent consent required. Year(s) of legislation: 1986
+NJ,Sometimes Required,0.436,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1968, 1992"
+NM,Sometimes Required,0.304,*Inpatient Treatment: Parent consent required. Outpatient Treatment: Independent minor consent allowed. Year(s) of legislation: 2007
+NY,Sometimes Required,0.428,"*Minors can independently consent if a provider determines parental involvement would be detrimental to the minor. Year(s) of legislation: 1972, 1983"
+NC,Sometimes Required,0.528,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Independent minor consent allowed. Year(s) of legislation: 1971, 1973"
+ND,No Specific Law Found,0.387,Year(s) of legislation: N/A
+OH,Sometimes Required,0.48,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minor can consent independently initially, but there is a time limit until parent permission is required. Year(s) of legislation: 1961, 1989"
+OK,Always Required,0.434,"Year(s) of legislation: 1992, 2014"
+OR,Sometimes Required,0.553,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1953, 1985"
+PA,Never Required,0.463,Year(s) of legislation: 2004
+RI,Always Required,0.368,"Year(s) of legislation: 1966, 1994"
+SC,Sometimes Required,0.323,"*Inpatient Treatment: Minors can independently consent; however, their parent/guardian may be notified regardless. Year(s) of legislation: 1991"
+SD,Always Required,0.179,*Inpatient Treatment: Parent consent required. Year(s) of legislation: 1991
+TN,Never Required,0.376,Year(s) of legislation: 2000
+TX,Always Required,0.324,*Parent consent required (Parent can override minor consent). Year(s) of legislation: 1991
+UT,No Specific Law Found,0.521,Year(s) of legislation: N/A
+VT,Never Required,0.47,"Year(s) of legislation: 1967, 2017"
+VA,Sometimes Required,0.455,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Independent minor consent allowed. Year(s) of legislation: 1950, 1990"
+WA,Sometimes Required,0.46,"*Inpatient Treatment: Minors can independently consent if a provider determines parental involvement would be detrimental to the  minor; Minors can independently consent; however, their parent/guardian may be notified  regardless. Outpatient Treatment: Independent minor consent allowed. Year(s) of legislation: 1985"
+WV,Always Required,0.4,*Inpatient Treatment: Parent consent required. Year(s) of legislation: 1965
+WI,Sometimes Required,0.53,"*Inpatient Treatment: Parent consent required. Outpatient Treatment: Minors can independently consent if a provider determines parental involvement would be detrimental to the minor. Year(s) of legislation: 1977, 1987"
+WY,Always Required,0.48,*Inpatient Treatment: Parent consent required. Year(s) of legislation: Prior to 1991

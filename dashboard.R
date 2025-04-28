@@ -14,7 +14,7 @@ state_shapefile <- tigris::states(cb = TRUE) %>% # Load US state shapefile from 
   sf::st_transform(4326)  # Transform to WGS84 for use with Leaflet
 
 # Load state data
-state_data <- read.csv(here::here("state_data.csv"))
+state_data <- read.csv(here::here("state_data_new.csv"))
 
 # Merge state data with shapefile
 merged_data <- dplyr::inner_join(
@@ -34,7 +34,7 @@ palette <- leaflet::colorFactor(
 ## UI
 ui <- fluidPage(
   
-  titlePanel("Parental Consent Requirements for Mental Health Treatment"),
+  titlePanel("Parental Consent Requirements for Youth Mental Health Treatment"),
   
   fluidRow(
   
@@ -42,7 +42,7 @@ ui <- fluidPage(
       
       9,
       leafletOutput("map", height = "600px"),
-      HTML("<p>Zoom out to view Alaska and Hawaii.<br>For more information, see our paper: <a href='https://example.com' target='_blank'>State Laws Mandating Parental Consent Relate to Lower Treatment Use among Adolescents</a>.</p>")
+      HTML("<p>Zoom out to view Alaska and Hawaii.<br>For more information, see our paper: <a href='https://jamanetwork.com/journals/jamapediatrics/fullarticle/2827181' target='_blank'>State Parental Consent Law and Treatment Use Among Adolescents With Depression</a>.</p>")
       
     ),
     
@@ -153,7 +153,7 @@ server <- function(input, output, session) {
     if(!is.null(state)) {
       
       paste0(
-        "Access Rate: ",
+        "Mental Health Treatment Access Rate: ",
         scales::percent(merged_data$Access[merged_data$NAME == state], .1)
       )
       
